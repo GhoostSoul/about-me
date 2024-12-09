@@ -33,6 +33,6 @@ Sinta-se à vontade para entrar em contato ou me seguir para mais atualizações
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=GhoostSoul&show_icons=true&hide_title=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhoostSoul&layout=compact)
-![Meu GIF de Programação](https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
+![Meu GIF de Programação](https://i.pinimg.com/originals/e0/57/24/e0572433212cdd6949bdc1ef01e8a428.gif)
 
 
