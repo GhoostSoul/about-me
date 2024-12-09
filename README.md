@@ -13,9 +13,13 @@
 - **Ferramentas:** Git,VS Code
 
 ## Projetos Destacados
-- 
+- GhoostSoul
 
 
 
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=GhoostSoul&show_icons=true&hide_title=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhoostSoul&layout=compact)
+![WakaTime](https://wakatime.com/share/@GhoostSoul/abcd1234.png)
+
+
