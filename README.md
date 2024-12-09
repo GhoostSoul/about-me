@@ -30,9 +30,8 @@ Estou sempre pronta para novos desafios e disposta a contribuir com minha criati
 
 Sinta-se à vontade para entrar em contato ou me seguir para mais atualizações! 🚀
 
-| Estatísticas WakaTime | GIF de Programação |
-|-----------------------|--------------------|
-| ![GIF Programação](https://exemplo.com/https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif) 
+![Meu GIF de Programação](https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
+
 
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=GhoostSoul&show_icons=true&hide_title=true&hide=prs)
