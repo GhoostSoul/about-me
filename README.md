@@ -1,4 +1,4 @@
-# Olá! Eu sou Ellen, uma nerd de rpg
+# Olá! Eu sou Ellen
 
 Sou estudante de Sistemas para Internet na UNIPE, amante de tecnologia, design e inovação. Adoro aprender e aprimorar minhas habilidades, e já desenvolvi projetos que refletem meu interesse por programação, design responsivo e criação de interfaces criativas e funcionais.
 
